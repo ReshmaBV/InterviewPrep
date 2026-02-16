@@ -1,5 +1,16 @@
 //Pyramid
 
+// Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
+
+
+
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+
+
 class Solution {
     public void pattern7(int N) {
         int lastTerm = a + (n-1)*2; 
